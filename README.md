@@ -1,1 +1,2 @@
-# liffbro
+# liff
+Public Liff
